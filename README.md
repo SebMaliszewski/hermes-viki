@@ -10,7 +10,9 @@ ratings and links, and descriptions in English, Polish, Japanese or Chinese.
 
 ## Screenshots
 
-_Placeholder — add images to `docs/screenshots/` (panel in dark theme, results, history)._
+![Search panel](docs/screenshots/panel.png)
+
+![Results](docs/screenshots/results.png)
 
 ## Features
 
