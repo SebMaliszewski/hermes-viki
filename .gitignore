@@ -1,0 +1,10 @@
+# runtime data (per-user state, caches, verdicts, translations)
+plugin/viki/data/
+plugin/viki/dane/
+**/config.json
+# backups / build artefacts
+*.bak*
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store

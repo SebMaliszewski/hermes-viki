@@ -1,0 +1,9 @@
+name: viki
+version: 4.0.0
+description: >-
+  Rakuten Viki drama search for Hermes Agent. Tools viki_candidates / viki_mark / viki_genres / viki_reset
+  (any Viki genre or '+' combination, region-available titles only, sorted by rating, per-genre seen/rejected
+  memory, server-side happy-end verification). Hermes Desktop page "Viki" with one persistent chat per genre.
+author: Sebastian M
+homepage: https://x.com/sebnatmal
+provides_hooks: []

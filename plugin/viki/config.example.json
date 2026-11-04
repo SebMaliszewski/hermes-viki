@@ -1,0 +1,9 @@
+{
+  "export_dir": "",
+  "min_reviews": 500,
+  "max_pages": 12,
+  "cache_ttl_s": 86400,
+  "max_results": 3,
+  "max_new_checks": 15,
+  "romance_includes_romcom": true
+}
